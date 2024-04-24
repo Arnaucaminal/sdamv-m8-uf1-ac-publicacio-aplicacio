@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
     public void mostrarEULA() {
         AlertDialog alertDialogEULA = new AlertDialog.Builder(MainActivity.this).create();
         alertDialogEULA.setTitle("EULA");
-        alertDialogEULA.setMessage("Please read and accept the End User License Agreement: ...");
+        alertDialogEULA.setMessage(getString(R.string.EULA));
 
         // Accept button
         alertDialogEULA.setButton(AlertDialog.BUTTON_POSITIVE, "Accept", new DialogInterface.OnClickListener() {

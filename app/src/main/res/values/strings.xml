@@ -1,4 +1,52 @@
 <resources>
     <string name="app_name">sdamv-m8-uf1-ac-publicacio-aplicacio</string>
-    <string name="EULA">Please read and accept the End User License Agreement: ...</string>
+    <string name="EULA">This End User License Agreement ("EULA") is a legal contract between you (whether an individual or an entity) and [Your Company Name] ("We" or "Our") for the use of the [Application Name] application ("the Application").
+
+1. License Grant
+
+We grant you a personal, non-exclusive, non-transferable, revocable, and limited license to use the Application solely for your personal or internal business use, subject to the terms of this EULA.
+
+2. Restrictions on Use
+
+You agree not to:
+
+a) Copy, distribute, or modify the Application, except as permitted by this EULA;
+
+b) Decompile, reverse engineer, disassemble, or attempt to derive the source code of the Application, except to the extent permitted by applicable law;
+
+c) Sell, rent, lease, assign, distribute, transmit, sublicense, or commercially exploit the Application;
+
+d) Use the Application in any way that may damage, disable, overburden, or impair its performance;
+
+e) Use the Application for any illegal purpose or in any manner not expressly authorized.
+
+3. Intellectual Property
+
+The Application and all related intellectual property rights therein are and shall remain the exclusive property of [Your Company Name] and its licensors. This EULA does not grant you any right or license with respect to such intellectual property except for the limited rights of use expressly granted herein.
+
+4. Updates and Maintenance
+
+We reserve the right to provide you with updates, enhancements, or modifications to the Application periodically. You agree to install such updates and keep the Application up-to-date.
+
+5. Limitation of Liability
+
+To the maximum extent permitted by applicable law, in no event shall [Your Company Name] be liable for any indirect, incidental, special, consequential, or punitive damages, including, without limitation, loss of profits, revenue, data, or use, incurred by you or any third party, whether in contract, tort, or otherwise, even if we have been advised of the possibility of such damages.
+
+6. Termination
+
+We may terminate this EULA at any time if you breach any of its terms. Upon termination, you shall cease using the Application and delete all copies thereof in your possession.
+
+7. Governing Law
+
+This EULA shall be governed by and construed in accordance with the laws of [Country/State], without regard to its conflicts of law provisions.
+
+8. Modifications to the EULA
+
+We reserve the right to modify this EULA at any time. Any modifications shall be effective upon posting on our website or through direct notification to you. Your continued use of the Application after such modifications shall constitute your consent to such changes.
+
+9. Contact
+
+If you have any questions about this EULA, you may contact us at [Contact Address].
+
+By accepting this EULA, you acknowledge that you have read, understood, and agreed to its terms and conditions. This EULA constitutes the entire agreement between you and [Your Company Name] regarding the use of the Application.</string>
 </resources>
